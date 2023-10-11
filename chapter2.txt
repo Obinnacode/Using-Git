@@ -1,1 +1,1 @@
-Hello Git
+This is how I think things should go. These save points are good because when someone messes up something you can simply go back and adjust/prevent it.
